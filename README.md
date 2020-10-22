@@ -10,7 +10,7 @@ The three main components of the code:
 Triangulation.py is a data structure to represent a triangulation. It takes triangles as input and forms them into a graph that represents the triangulation. The code determines the manifold's Euler characteristic, genus, and specific name of the manifold if it has one. 
 
 ## Simplicial Complex & Boundary Matrix
-simplicialComplex.py takes a simplex as input and forms it into a multi-dimensional simplicial complex. The code then calculates the boundary matrix for each dimension of the complex. 
+SimplicialComplex.py takes a simplex as input and forms it into a multi-dimensional simplicial complex. The code then calculates the boundary matrix for each dimension of the complex. 
 
 ## Persistent Homology
 
